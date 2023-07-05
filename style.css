@@ -2,5 +2,10 @@ div {
     background: tomato;
     border: 2px solid blue;
     padding: 20px;
-    max-resolution: 30px;
+    margin: 30px;
+}
+
+h2 {
+    color: white;
+    background: red;
 }
